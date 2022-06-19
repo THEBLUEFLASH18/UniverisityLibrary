@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+}
+
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    transform: scale(2.0);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    inset-block: auto;
+    flex-direction: column;
+}
+
+.resources {
+    font-size: 70px;
+}
+
+h2 {
+    text-align: center;
+}
+
+a {
+    font-size: 32px;
+    text-align: center;
+}
+
+.section3 {
+    text-align: center;
+}
+
+.centera {
+    text-align: center;
+}
+
+.sublist {
+    font-size: 20px;
+}
+
+.space {
+    margin-top: 100px;
+}
+
+.special {
+    font-size: 32px;
+}
+
+.special_need {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.flow {
+    font-size: 32px;
+}
+
+.outer {
+    font-size: 32px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
